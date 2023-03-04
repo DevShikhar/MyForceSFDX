@@ -3,5 +3,5 @@
     <fullName>All_Primary_Schools</fullName>
     <columns>NAME</columns>
     <filterScope>Mine</filterScope>
-    <label>All Primary Schools</label>
+    <label>All Local Primary - Schools</label>
 </ListView>
